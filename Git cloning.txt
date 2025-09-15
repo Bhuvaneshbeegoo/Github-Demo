@@ -1,0 +1,7 @@
+Step 1 - Create empty folder in your local machine
+Step 2 - Open Powershell
+Step 3 - Directory needs to be updated to point the newly created folder.
+Step 4 - Go to github and copy the clone URL (Inside code option)
+Step 5 - Use the command "git clone <copied url>" in Powershell
+ 
+Git cloud and local machine successfully connected.
